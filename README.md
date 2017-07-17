@@ -1,4 +1,5 @@
-# CIIDSummerSchool-DesigningConnectedSpaces
+# Designing Connected Spaces 
+###[CIID](www.ciid.dk) Summer School
 
 
 
