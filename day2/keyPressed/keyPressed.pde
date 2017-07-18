@@ -8,8 +8,8 @@ void draw() {
   rect(25, 25, 50, 50);
 }
 
-void keyPressed(event) {
-  if(key==" ")
+void keyPressed() {
+  if(key==' ')
   {
     value = 255;
   }
